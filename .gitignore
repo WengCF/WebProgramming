@@ -1,0 +1,2 @@
+# ignore .DS_Store -> mac file for environment setting 
+*.DS_Store
